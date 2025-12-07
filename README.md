@@ -1,10 +1,10 @@
+![Binary Distilation Surrogate Model](banner.png)
 # BINARY DISTILLATION SURROGATE MODEL
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](https://python.org)
+[![DWSIM](https://img.shields.io/badge/DWSIM-Process%20Simulator-green?style=for-the-badge)](https://dwsim.org)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0+-orange?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org)
 [![XGBoost](https://img.shields.io/badge/XGBoost-Latest-red?style=for-the-badge)](https://xgboost.readthedocs.io/)
-[![DWSIM](https://img.shields.io/badge/DWSIM-Process%20Simulator-green?style=for-the-badge)](https://dwsim.org)
-
 
 ## Project Overview
 
