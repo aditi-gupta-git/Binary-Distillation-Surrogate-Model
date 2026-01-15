@@ -16,7 +16,7 @@ operating parameters to predict:
 
 The surrogate models enable rapid design exploration, optimization studies, and sensitivity analysis without running full process simulations.
 
-> **Context**: This project was completed as a screening task for the **FOSSEE IIT Bombay Internship**.
+> **Context**: This project was completed as a screening task for the **FOSSEE Semester Long Internship, IIT Bombay**.
 
 ## Dataset Information
 
