@@ -243,5 +243,3 @@ jupyter notebook
 ## Acknowledgments
 
 - **FOSSEE IIT Bombay** - For providing this internship screening task opportunity  
-
-⭐ If you found this project helpful, please consider giving it a star!
